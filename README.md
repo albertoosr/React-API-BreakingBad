@@ -1,4 +1,5 @@
 
+![Breakign Bad](https://user-images.githubusercontent.com/62088439/156947453-0186dfe1-dcd1-46ca-a222-c10a07a76411.png)
 # Breaking Bad
 
 Proyecto creado con React solictando información por API .[Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
