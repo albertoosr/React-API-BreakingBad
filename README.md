@@ -1,7 +1,7 @@
 
 # Breaking Bad
 
-_Proyecto creado con React solictando información por API .[Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
+Proyecto creado con React solictando información por API .[Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes)
 
 # Getting Started with Create React App
 
